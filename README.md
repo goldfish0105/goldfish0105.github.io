@@ -15,11 +15,9 @@
 ![是哦](https://memeprod.sgp1.digitaloceanspaces.com/meme/da0dcdd4ca8fbcf6a1c733fdfd8edd6b.png)
 
 ```C
-
 #include <stdio.h>
 int main()
 {
   printf("hey bro");
 }
-
 ```
