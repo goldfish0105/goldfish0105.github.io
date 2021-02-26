@@ -16,5 +16,6 @@
 
 ```C
 #include <stdio.h>
-printf("hey bro")
+int main()
+printf("hey bro");
 ```
