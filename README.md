@@ -18,6 +18,8 @@
 
 #include <stdio.h>
 int main()
-printf("hey bro");
+{
+  printf("hey bro");
+}
 
 ```
